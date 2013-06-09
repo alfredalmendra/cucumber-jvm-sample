@@ -9,6 +9,9 @@ public class Service {
     public Service(Precondition precondition) {
     }
 
+    public Service(List<Precondition> preconditions) {
+    }
+
     public void executerAction() {
         resultats.add(new Resultat());
     }
