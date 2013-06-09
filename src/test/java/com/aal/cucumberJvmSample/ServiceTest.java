@@ -5,7 +5,7 @@ import cucumber.api.java.fr.Alors;
 import cucumber.api.java.fr.Etantdonné;
 import cucumber.api.java.fr.Lorsqu;
 
-public class Fonctionnalite1Test {
+public class ServiceTest {
     private Service service;
 
     @Etantdonné("^une précondition$")
